@@ -46,4 +46,4 @@ android {
 ```
 
 ## script for macOS
-`script/make_apk.sh` 파일을 실행하면, 파일명에 버전을 붙인 `TestApp_v1.0.apk` 파일을 만들고, 바탕화면으로 이동시킨다.
+[script/make_apk.sh](script/make_apk.sh) 파일을 실행하면, 파일명에 버전을 붙인 `TestApp_v1.0.apk` 파일을 만들고, 바탕화면으로 이동시킨다.
