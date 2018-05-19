@@ -5,10 +5,10 @@ keystore 파일을 `TestApp/TestApp.keystore`에 넣어줬다.
 만약 사용하고 싶은 keystore 파일이 있다면 그대로 넣어주면 된다.
 
 ## keystore.properties
-`TestApp/keystore.properties` 파일에 keystore 정보를 넣어준다.
+[TestApp/keystore.properties](TestApp/keystore.properties) 파일에 keystore 정보를 넣어준다.
 
 ## app/build.gradle
-빌드할 때 keystore 정보를 이용하게 설정해준다.
+[buil.gradle](TestApp/app/build.gradle)에 빌드할 때 keystore 정보를 이용하게 설정해준다.
 
 ```
 def keystorePropertiesFile = rootProject.file("keystore.properties")
