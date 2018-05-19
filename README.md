@@ -1,6 +1,6 @@
 # APK Generate Script Sample
 
-keystore 에 관한 정보는 https://developer.android.com/studio/publish/app-signing?hl=ko 에 있다.
+apk 서명에 관한 정보는 https://developer.android.com/studio/publish/app-signing?hl=ko 에 있다.
 
 ## copy .keystore to app root folder
 keystore 파일을 `TestApp/TestApp.keystore`에 넣어줬다.
